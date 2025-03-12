@@ -1,0 +1,106 @@
+ <div class="card card-compact shadow-xl">
+        <figure>
+          <img src="./img/t-1.webp" alt="">
+        </figure>
+        <div class="p-[20px]">
+          <h2 class="md:text-[26px] text-[22px] font-bold text-black font-lato md:mb-[15px] mb-[10px] cursor-pointer">Polo T-shirt</h2>
+          <p class="font-lato text-gray-700 text-base font-normal leading-[26px] md:mb-[20px] mb-[15px] cursor-pointer">৳1,150</p>
+         <div class="flex gap-[16px] mb-[24px]">
+            <p class="border-2 border-black p-[4px] cursor-pointer">M</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">L</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">XL</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">XXL</p>
+         </div>
+         <div class="flex gap-2">
+            <span class="bg-[#1E73BE] w-[18px] rounded-full block h-[18px] cursor-pointer"></span>
+            
+            <span class="bg-[#81D742] w-[18px] rounded-full h-[18px] cursor-pointer"></span>
+
+            <span class="bg-[#CE592F] w-[18px] rounded-full h-[18px] cursor-pointer"></span>
+           </div>
+          <div class="card-actions justify-end">
+            <button class="btn bg-gradient-to-r from-[#ACD455] to-[#53BA4B] text-white ">Add to card</button>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="card card-compact shadow-xl">
+        <figure>
+          <img src="./img/t-2.webp" alt="">
+        </figure>
+        <div class="p-[20px]">
+          <h2 class="md:text-[26px] text-[22px] font-bold text-black font-lato md:mb-[15px] mb-[10px] cursor-pointer">Stripe Polo T-Shirt</h2>
+          <p class="font-lato text-gray-700 text-base font-normal leading-[26px] mb-[20px] cursor-pointer">৳1,300</p>
+         <div class="flex gap-[16px] mb-[24px]">
+            <p class="border-2 border-black p-[4px] cursor-pointer">M</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">L</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">XL</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">XXL</p>
+         </div>
+         <div class="flex gap-2">
+            <span class="bg-gray-700 w-[18px] rounded-full block h-[18px] cursor-pointer"></span>
+            
+            <span class="bg-purple-800 w-[18px] rounded-full h-[18px] cursor-pointer"></span>
+
+            <span class="bg-[#CE592F] w-[18px] rounded-full h-[18px] cursor-pointer"></span>
+           </div>
+          <div class="card-actions justify-end">
+            <button class="btn bg-gradient-to-r from-[#ACD455] to-[#53BA4B] text-white  ">Add to card</button>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="card card-compact shadow-xl">
+        <figure>
+          <img src="./img/t-3.webp" alt="">
+        </figure>
+        <div class="p-[20px]">
+          <h2 class="md:text-[26px] text-[22px] font-bold text-black font-lato md:mb-[15px] mb-[10px] cursor-pointer"> Polo T-Shirt</h2>
+          <p class="font-lato text-gray-700 text-base font-normal leading-[26px] mb-[20px] cursor-pointer">৳1,400</p>
+         <div class="flex gap-[16px] mb-[24px]">
+            <p class="border-2 border-black p-[4px] cursor-pointer">M</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">L</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">XL</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">XXL</p>
+         </div>
+         <div class="flex gap-2">
+            <span class="bg-yellow-600 w-[18px] rounded-full block h-[18px] cursor-pointer"></span>
+            
+            <span class="bg-green-600 w-[18px] rounded-full h-[18px] cursor-pointer"></span>
+
+            <span class="bg-red-700 w-[18px] rounded-full h-[18px] cursor-pointer"></span>
+           </div>
+          <div class="card-actions justify-end">
+            <button class="btn bg-gradient-to-r from-[#ACD455] to-[#53BA4B] text-white ">Add to card</button>
+          </div>
+        </div>
+      </div>
+
+       <div class="card card-compact shadow-xl">
+        <figure>
+          <img src="./img/t-4.webp" alt="">
+        </figure>
+        <div class="p-[20px]">
+          <h2 class="md:text-[26px] text-[22px] font-bold text-black font-lato md:mb-[15px] mb-[10px] cursor-pointer">Stripe Polo T-Shirt</h2>
+          <p class="font-lato text-gray-700 text-base font-normal leading-[26px] mb-[20px] cursor-pointer">৳1,550</p>
+         <div class="flex gap-[16px] mb-[24px]">
+            <p class="border-2 border-black p-[4px] cursor-pointer">M</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">L</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">XL</p>
+            <p class="border-2 border-black p-[4px] cursor-pointer">XXL</p>
+         </div>
+         <div class="flex gap-2">
+            <span class="bg-[#1E73BE] w-[18px] rounded-full block h-[18px] cursor-pointer"></span>
+            
+            <span class="bg-[#81D742] w-[18px] rounded-full h-[18px] cursor-pointer"></span>
+
+            <span class="bg-black w-[18px] rounded-full h-[18px] cursor-pointer"></span>
+           </div>
+          <div class="card-actions justify-end">
+            <button class="btn bg-gradient-to-r from-[#ACD455] to-[#53BA4B] text-white  ">Add to card</button>
+          </div>
+        </div>
+      </div>
