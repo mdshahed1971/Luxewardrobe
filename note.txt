@@ -104,3 +104,75 @@
           </div>
         </div>
       </div>
+
+
+
+
+
+
+
+ <div class="grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 md:gap-6 gap-3">
+  
+  
+   
+     
+  <!-- card-1 -->
+  <div class="card card-compact shadow-xl md:mb-[24px] mb-[12px] bg-[#F2F2F2]">
+    <figure>
+      <img src="./img/t-1.webp" alt="">
+    </figure>
+    <div class="p-[20px]">
+      <p class="text-xl font-bold text-black font-lato md:mb-[15px] mb-[10px] cursor-pointer"> T-shirt</p>
+     
+    
+   
+     
+    </div>
+  </div>
+
+  <!-- card-1 -->
+  <!-- card-2 -->
+  <div class="card card-compact shadow-xl md:mb-[24px] mb-[12px] bg-[#F2F2F2]">
+    <figure>
+      <img src="./img/t-2.webp" alt="">
+    </figure>
+    <div class="p-[20px]">
+      <p class="text-xl font-bold text-black font-lato md:mb-[15px] mb-[10px] cursor-pointer"> T-Shirt</p>
+      
+    
+     
+     
+    </div>
+  </div>
+  <!-- card-2 -->
+  <!-- card-3 -->
+  <div class="card card-compact shadow-xl md:mb-[24px] mb-[12px] bg-[#F2F2F2]">
+    <figure>
+      <img src="./img/t-3.webp" alt="">
+    </figure>
+    <div class="p-[20px]">
+      <p class="text-xl font-bold text-black font-lato md:mb-[15px] mb-[10px] cursor-pointer"> T-Shirt</p>
+     
+    
+    
+      
+    </div>
+  </div>
+
+  <!-- card-3 -->
+  <!-- card-4 -->
+  <div class="card card-compact shadow-xl md:mb-[24px] mb-[12px] bg-[#F2F2F2]">
+    <figure>
+      <img src="./img/t-4.webp" alt="">
+    </figure>
+    <div class="p-[20px]">
+      <p class="text-xl font-bold text-black font-lato md:mb-[15px] mb-[10px] cursor-pointer"> T-Shirt</p>
+     
+    
+    
+      
+    </div>
+  </div>
+
+  <!-- card-4 -->
+  </div>
