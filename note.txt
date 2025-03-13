@@ -176,3 +176,6 @@
 
   <!-- card-4 -->
   </div>
+
+
+  data-aos="fade-right"
